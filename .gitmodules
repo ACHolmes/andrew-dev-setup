@@ -1,0 +1,3 @@
+[submodule "neovim-cfg"]
+	path = neovim-cfg
+	url = git@github.com:ACHolmes/neovim-cfg.git
